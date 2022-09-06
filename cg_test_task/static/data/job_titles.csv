@@ -1,0 +1,6 @@
+id,job_title,supervisor_id
+1,CEO,
+2,Chief manager,1
+3,Manager,2
+4,Assistant manager,3
+5,Worker,4
